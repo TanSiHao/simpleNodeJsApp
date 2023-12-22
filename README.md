@@ -65,7 +65,7 @@ Result:
 
 <img src="images/Picture8.png" alt="Verify toggle ON in terninal"><br />
 
-## 5.	Run you application with feature flag “Off” and “On”.
+## 5.	Run the sample application with feature flag “Off” and “On”.
 Start the web server. Run 
 ```sh
 node app.js.
