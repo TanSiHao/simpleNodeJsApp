@@ -67,10 +67,13 @@ Result:
 <img src="images/Picture8.png" alt="Verify toggle ON in terninal"><br />
 
 ## 5.	Run you application with feature flag “Off” and “On”.
-Run 
+Start the web server. Run 
 ```sh
 node app.js.
 ```
+<img src="images/Picture12.png" alt="Start web server"><br />
+Access URL on port 3000 here: http://localhost:3000/
+
 <img src="images/Picture9.png" alt="How UI Looks like when toggle is False"><br />
 
 Go back to the feature flags page. Toggle “On” the flag.
