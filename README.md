@@ -1,9 +1,9 @@
-# Sample application with Feature flag implemented using Launchdarkly
+# Sample application with feature flag implemented using Launchdarkly
 
-## 1. Enabling Business requirements seamlessly with confident
-This Repo contains the labs we are going to work though as part of the feature flag - Bridging the Gap to the Business needs which webpage content during runtime, without deploying new code. 
+## 1. Supporting business requirements seamlessly with confident
+This repo contains the lab we are going to work though as part of the feature flag - Bridging the gap to the business needs which update webpage content seamlessly during runtime, without deploying new code. 
 
-For the purposes of the Hands-On, we prepared a few html and node js files and make the steps seamless for the anyone.
+For the purposes of the Hands-On, we prepared a few html and node js files and make the steps easy for the anyone.
 
 Prerequisites
 - You will need a launchdarkly account. You may sign up a trial account here: https://launchdarkly.com/start-trial/
