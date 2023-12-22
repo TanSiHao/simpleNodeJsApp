@@ -45,7 +45,7 @@ Run
 ```sh
 node testconnection.js
 ```
-Your flag will return false. 
+Your console will return false. 
 
 Result:
 
@@ -60,7 +60,7 @@ Run
 node testconnection.js
 ```
 
-Your flag will return true.
+Your console will return true.
 
 Result:
 
@@ -75,7 +75,7 @@ node app.js.
 
 Go back to the feature flags page. Toggle “On” the flag.
 
-<img src="images/Picture10.png" alt="Switch toggle to TRUE, and verify update in terminal"><br />
+<img src="images/Picture10.png" alt="Switch toggle to TRUE, and verify update in console"><br />
 
 Click refresh on your browser or “F5” to refresh the web page.
 
