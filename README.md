@@ -13,12 +13,12 @@ Prerequisites
   - Download/clone from https://github.com/TanSiHao/simpleNodeJsApp.git 
 
 ## 2. Setup feature flag
-Switch to the “Test” environment. We will create a feature flag under the environment.
+Switch to the “Test” environment. We will create a feature flag under the test environment.
 
 <img src="images/Picture1.png" alt="Setup feature flag"><br />
 
 1.	Click “Create flag”
-2.	Name: Boolean-flag<br />
+2.	Name: boolean-flag<br />
 
 <img src="images/Picture2.png" alt="Create feature flag"><br />
 
@@ -29,7 +29,7 @@ Account settings -> Projects -> CHOOSE YOUR PROJECT -> Copy the correct environm
 <img src="images/Picture3.png" alt="Copy SDK KEY"><br />
 
 ## 3.	Setup sample Node application
-Paste the SDK Key copied from your Launchdarkly test environment to testconnection.js and launchDarkly.js.
+Paste the SDK Key copied from your Launchdarkly in testconnection.js and launchDarkly.js.
 
 Line 4, testconnection.js
 
